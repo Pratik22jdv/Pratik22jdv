@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Pratik22jdv
-- 👀 Seeking opportunities to work challenging environment, industry. 
+- 👀 Seeking a position in the field of Computer Science where I can utilize my skills to further work towards personal and professional development.
 - 🌱 Third year student at IIIT Pune pursuing B. Tech degree in Computer Science and Engineering.
 - 💞️ I’m looking forward to explore new technologies and gain more experience in all aspects of application development and support life cycle process.
 - 📫 LinkedIn Profile : https://www.linkedin.com/in/pratik-jadhav-266383193/
